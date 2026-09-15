@@ -1,0 +1,33 @@
+# Environment / secrets
+.env
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Raw OSM data
+data/raw/
+
+# OSM shapefiles
+data/shapefiles/
+
+# Generated shapefile components
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Saved machine-learning models
+models/saved/*.pkl
+
+# Python generated files
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
