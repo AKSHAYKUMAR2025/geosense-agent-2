@@ -25,8 +25,31 @@ data/shapefiles/
 # Saved machine-learning models
 models/saved/*.pkl
 
-# Python generated files
-*.pyc
+# ==============================
+# GeoSense Phase 2 generated data
+# ==============================
+
+# Generated processed datasets
+data/processed/
+
+# Large downloaded foundation-model files
+models/prithvi_300m/
+
+# Saved PyTorch model checkpoints
+models/saved/*.pth
+
+# Phase 2 evaluation artifacts
+models/evaluation/
+
+# Generated plots
+outputs/plots/
+
+# Generated reports/results
+outputs/reports/
+
+# Temporary/cache files
+*.npy
+*.npz
 
 # OS files
 .DS_Store
