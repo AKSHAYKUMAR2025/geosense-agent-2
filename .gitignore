@@ -54,3 +54,6 @@ outputs/reports/
 # OS files
 .DS_Store
 Thumbs.db
+
+# R history
+.Rhistory
