@@ -426,6 +426,37 @@ nothing to commit, working tree clean
 - [ ] Under-3-second classifier target
 - [ ] Independent human-labelled validation
 
+## Phase 3 — Geospatial Data Integration
+
+Phase 3 adds LiDAR processing and street-level semantic analysis to GeoSense Agent.
+
+### Completed Components
+
+- LiDAR preprocessing with PDAL
+- LiDAR-derived building height and canopy metrics
+- Colour-coded LiDAR point-cloud visualization
+- SAM-based rooftop extraction
+- Mapillary street-image download
+- SegFormer-based street-scene semantic analysis
+- Unified LiDAR + street-view site profile
+- LiDAR analysis module
+- Phase 3 unit tests
+
+### Phase 3 Validation
+
+- LiDAR pipeline processed the demo point-cloud dataset successfully.
+- LiDAR feature extraction completed successfully.
+- SAM detected candidate rooftop segments.
+- 14 Mapillary images were downloaded successfully.
+- Street-view semantic analysis completed successfully.
+- Unified site profile was generated successfully.
+- Phase 3 unit tests: **4 passed**.
+
+### Phase 3 Test Command
+
+```bash
+python -m pytest tests/test_phase3_modules.py -v
+
 ## Conclusion
 
 GeoSense Agent 2.0 now contains an end-to-end geospatial and satellite-imagery workflow extending the Phase 1 site-scoring system with deep learning and foundation-model experiments. The documented results and limitations distinguish the implemented system from the laboratory specification and identify the remaining work required for a closer reproduction of the requested workflow.
