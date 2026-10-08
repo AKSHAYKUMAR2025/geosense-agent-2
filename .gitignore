@@ -63,3 +63,16 @@ data/lidar/processed/*.laz
 data/streetview/images/
 models/saved/sam/*.pth
 outputs/point_clouds/*.ply
+
+# --- Phase 4 additions ---
+frontend/digital_twin/node_modules/
+frontend/digital_twin/dist/
+frontend/digital_twin/.env
+outputs/agent_logs/
+
+# Generated Cesium static assets
+frontend/digital_twin/public/cesiumStatic/
+
+# Vite starter files not used by GeoSense
+frontend/digital_twin/src/assets/
+frontend/digital_twin/src/counter.js

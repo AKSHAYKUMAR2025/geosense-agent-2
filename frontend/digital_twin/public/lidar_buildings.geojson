@@ -1,0 +1,917 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 77616125,
+        "height_m": 2.6,
+        "height_p10_m": 2.52,
+        "height_p95_m": 2.7,
+        "area_m2": 85.9,
+        "lidar_points": 7231,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9603243,
+              38.4152416
+            ],
+            [
+              14.9602595,
+              38.4152702
+            ],
+            [
+              14.9603337,
+              38.4153776
+            ],
+            [
+              14.9603955,
+              38.4153512
+            ],
+            [
+              14.9603243,
+              38.4152416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 77616126,
+        "height_m": 3.36,
+        "height_p10_m": 2.94,
+        "height_p95_m": 4.6,
+        "area_m2": 1126.49,
+        "lidar_points": 2990,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9582959,
+              38.4166973
+            ],
+            [
+              14.9584992,
+              38.4164997
+            ],
+            [
+              14.9586776,
+              38.4166123
+            ],
+            [
+              14.9587621,
+              38.4165301
+            ],
+            [
+              14.9588523,
+              38.4165871
+            ],
+            [
+              14.9587932,
+              38.4166445
+            ],
+            [
+              14.9588893,
+              38.4167052
+            ],
+            [
+              14.9587594,
+              38.4168315
+            ],
+            [
+              14.9587076,
+              38.4167987
+            ],
+            [
+              14.9586615,
+              38.4168435
+            ],
+            [
+              14.9586963,
+              38.4168655
+            ],
+            [
+              14.958632,
+              38.4169281
+            ],
+            [
+              14.9584484,
+              38.4168121
+            ],
+            [
+              14.9586116,
+              38.4166535
+            ],
+            [
+              14.9585422,
+              38.4166097
+            ],
+            [
+              14.9583906,
+              38.4167571
+            ],
+            [
+              14.9582959,
+              38.4166973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 77681704,
+        "height_m": 5.39,
+        "height_p10_m": 2.73,
+        "height_p95_m": 8.94,
+        "area_m2": 313.62,
+        "lidar_points": 35505,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9587759,
+              38.4162283
+            ],
+            [
+              14.9588549,
+              38.4161505
+            ],
+            [
+              14.9586,
+              38.4159917
+            ],
+            [
+              14.958521,
+              38.4160695
+            ],
+            [
+              14.9587759,
+              38.4162283
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 77681716,
+        "height_m": 4.18,
+        "height_p10_m": 2.73,
+        "height_p95_m": 5.72,
+        "area_m2": 72.17,
+        "lidar_points": 2651,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9584469,
+              38.4155512
+            ],
+            [
+              14.9583727,
+              38.4156192
+            ],
+            [
+              14.958436,
+              38.4156616
+            ],
+            [
+              14.9585102,
+              38.4155936
+            ],
+            [
+              14.9584469,
+              38.4155512
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 77681744,
+        "height_m": 4.77,
+        "height_p10_m": 2.69,
+        "height_p95_m": 6.04,
+        "area_m2": 411.8,
+        "lidar_points": 2554,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9578668,
+              38.4151996
+            ],
+            [
+              14.9579372,
+              38.4151253
+            ],
+            [
+              14.9581585,
+              38.4152513
+            ],
+            [
+              14.9583067,
+              38.4153373
+            ],
+            [
+              14.9582351,
+              38.4154125
+            ],
+            [
+              14.9582236,
+              38.4154059
+            ],
+            [
+              14.9582237,
+              38.415404
+            ],
+            [
+              14.9580851,
+              38.4153247
+            ],
+            [
+              14.9578668,
+              38.4151996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 77681754,
+        "height_m": 2.59,
+        "height_p10_m": 2.51,
+        "height_p95_m": 2.76,
+        "area_m2": 133.13,
+        "lidar_points": 696,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.958355,
+              38.4153706
+            ],
+            [
+              14.9582765,
+              38.4154528
+            ],
+            [
+              14.9583189,
+              38.4154777
+            ],
+            [
+              14.9583468,
+              38.4154484
+            ],
+            [
+              14.95839,
+              38.4154737
+            ],
+            [
+              14.958398,
+              38.4154653
+            ],
+            [
+              14.9584375,
+              38.4154884
+            ],
+            [
+              14.9584516,
+              38.4154737
+            ],
+            [
+              14.9584946,
+              38.415499
+            ],
+            [
+              14.9585231,
+              38.4154692
+            ],
+            [
+              14.958355,
+              38.4153706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 77681759,
+        "height_m": 2.6,
+        "height_p10_m": 2.53,
+        "height_p95_m": 2.68,
+        "area_m2": 51.59,
+        "lidar_points": 354,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9586989,
+              38.4155832
+            ],
+            [
+              14.9586399,
+              38.415637
+            ],
+            [
+              14.9587137,
+              38.4156866
+            ],
+            [
+              14.9587444,
+              38.4156585
+            ],
+            [
+              14.9587094,
+              38.415635
+            ],
+            [
+              14.9587376,
+              38.4156092
+            ],
+            [
+              14.9586989,
+              38.4155832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 77681768,
+        "height_m": 3.18,
+        "height_p10_m": 2.59,
+        "height_p95_m": 4.54,
+        "area_m2": 83.91,
+        "lidar_points": 2194,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9585306,
+              38.4154868
+            ],
+            [
+              14.9584893,
+              38.4155263
+            ],
+            [
+              14.9586204,
+              38.4156105
+            ],
+            [
+              14.9586618,
+              38.415571
+            ],
+            [
+              14.9585306,
+              38.4154868
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 216566644,
+        "height_m": 3.65,
+        "height_p10_m": 2.59,
+        "height_p95_m": 5.44,
+        "area_m2": 285.15,
+        "lidar_points": 5998,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9599933,
+              38.4143504
+            ],
+            [
+              14.9600359,
+              38.4143495
+            ],
+            [
+              14.9601182,
+              38.4140421
+            ],
+            [
+              14.9600399,
+              38.4140285
+            ],
+            [
+              14.9599785,
+              38.4141497
+            ],
+            [
+              14.9599557,
+              38.4142389
+            ],
+            [
+              14.9599933,
+              38.4143504
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 216566666,
+        "height_m": 3.38,
+        "height_p10_m": 2.79,
+        "height_p95_m": 3.87,
+        "area_m2": 378.04,
+        "lidar_points": 115,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9595682,
+              38.4141681
+            ],
+            [
+              14.9595564,
+              38.414131
+            ],
+            [
+              14.9594983,
+              38.4141424
+            ],
+            [
+              14.9594712,
+              38.4140577
+            ],
+            [
+              14.959522,
+              38.4140478
+            ],
+            [
+              14.9595069,
+              38.4140006
+            ],
+            [
+              14.9597307,
+              38.4139567
+            ],
+            [
+              14.9597603,
+              38.4140494
+            ],
+            [
+              14.9596933,
+              38.4140625
+            ],
+            [
+              14.9597177,
+              38.4141388
+            ],
+            [
+              14.9595682,
+              38.4141681
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 301451703,
+        "height_m": 6.9,
+        "height_p10_m": 5.39,
+        "height_p95_m": 8.29,
+        "area_m2": 43.2,
+        "lidar_points": 3612,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9601224,
+              38.4146984
+            ],
+            [
+              14.9601603,
+              38.4147553
+            ],
+            [
+              14.9600981,
+              38.4147809
+            ],
+            [
+              14.960063,
+              38.4147186
+            ],
+            [
+              14.9601224,
+              38.4146984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 301451709,
+        "height_m": 3.56,
+        "height_p10_m": 2.62,
+        "height_p95_m": 5.64,
+        "area_m2": 1136.96,
+        "lidar_points": 92977,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9597904,
+              38.4145817
+            ],
+            [
+              14.9597798,
+              38.4145515
+            ],
+            [
+              14.959816,
+              38.4145467
+            ],
+            [
+              14.9598008,
+              38.4144404
+            ],
+            [
+              14.9595581,
+              38.4144699
+            ],
+            [
+              14.9592213,
+              38.4146292
+            ],
+            [
+              14.9592339,
+              38.4146492
+            ],
+            [
+              14.9591441,
+              38.414687
+            ],
+            [
+              14.9592082,
+              38.4147849
+            ],
+            [
+              14.9595363,
+              38.4146528
+            ],
+            [
+              14.9595725,
+              38.4147247
+            ],
+            [
+              14.9597247,
+              38.4146941
+            ],
+            [
+              14.9597117,
+              38.4146534
+            ],
+            [
+              14.9598077,
+              38.4146351
+            ],
+            [
+              14.9597904,
+              38.4145817
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1262337144,
+        "height_m": 2.55,
+        "height_p10_m": 2.51,
+        "height_p95_m": 2.63,
+        "area_m2": 10.33,
+        "lidar_points": 389,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9592158,
+              38.4161147
+            ],
+            [
+              14.9592028,
+              38.4161141
+            ],
+            [
+              14.9591941,
+              38.416123
+            ],
+            [
+              14.9591919,
+              38.4161334
+            ],
+            [
+              14.9591941,
+              38.4161436
+            ],
+            [
+              14.9592069,
+              38.4161492
+            ],
+            [
+              14.9592197,
+              38.4161477
+            ],
+            [
+              14.9592301,
+              38.4161386
+            ],
+            [
+              14.9592313,
+              38.4161252
+            ],
+            [
+              14.9592158,
+              38.4161147
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1366174699,
+        "height_m": 2.93,
+        "height_p10_m": 2.59,
+        "height_p95_m": 3.51,
+        "area_m2": 142.35,
+        "lidar_points": 2397,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9583437,
+              38.4149658
+            ],
+            [
+              14.9584557,
+              38.4150834
+            ],
+            [
+              14.958542,
+              38.4150156
+            ],
+            [
+              14.9583992,
+              38.414921
+            ],
+            [
+              14.9583437,
+              38.4149658
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1546135462,
+        "height_m": 3.06,
+        "height_p10_m": 2.63,
+        "height_p95_m": 3.92,
+        "area_m2": 246.94,
+        "lidar_points": 16075,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9598976,
+              38.4147353
+            ],
+            [
+              14.9600344,
+              38.4146939
+            ],
+            [
+              14.9599563,
+              38.414534
+            ],
+            [
+              14.9598179,
+              38.4145678
+            ],
+            [
+              14.9598976,
+              38.4147353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1546135470,
+        "height_m": 2.55,
+        "height_p10_m": 2.5,
+        "height_p95_m": 2.63,
+        "area_m2": 30.18,
+        "lidar_points": 338,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9603152,
+              38.4152273
+            ],
+            [
+              14.9602803,
+              38.4152421
+            ],
+            [
+              14.9602327,
+              38.415173
+            ],
+            [
+              14.9602676,
+              38.4151582
+            ],
+            [
+              14.9603152,
+              38.4152273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1546135472,
+        "height_m": 2.66,
+        "height_p10_m": 2.52,
+        "height_p95_m": 2.85,
+        "area_m2": 21.12,
+        "lidar_points": 394,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9608653,
+              38.4155325
+            ],
+            [
+              14.9608557,
+              38.4155045
+            ],
+            [
+              14.9609282,
+              38.4154892
+            ],
+            [
+              14.9609378,
+              38.4155173
+            ],
+            [
+              14.9608653,
+              38.4155325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1546135478,
+        "height_m": 4.14,
+        "height_p10_m": 2.73,
+        "height_p95_m": 6.16,
+        "area_m2": 53.41,
+        "lidar_points": 2868,
+        "source": "OpenStreetMap building footprint + Phase 3 LiDAR height",
+        "classification_rule": "HAG >= 2.5m and num_returns == 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.9600422,
+              38.4148055
+            ],
+            [
+              14.9600981,
+              38.4147809
+            ],
+            [
+              14.960055,
+              38.4147207
+            ],
+            [
+              14.9600444,
+              38.4147059
+            ],
+            [
+              14.9599885,
+              38.4147305
+            ],
+            [
+              14.9600422,
+              38.4148055
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
